@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body{
+    padding: 20px;
+    font-family: 'Roboto',"Verdana",
+    sans-serif;
+    font-weight: bold
+}
+hr {
+	margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eeeeee;
+    
+}
+a {
+    color: purple;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+p {
+    margin-left: 25px;
+}
+li{
+    margin-bottom: 5px;
+}
